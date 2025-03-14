@@ -191,15 +191,3 @@ When you're done with the project, deactivate the virtual environment.
 <pre>
 deactivate
 </pre>
-
-# 10. Dataset link
-The dataset was collected from kaggle.
-
-Link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?sort=votes
-
-# 11. Contact me
-Linkedin: https://www.linkedin.com/in/pedro-almeida-ds/
-
-Github: https://github.com/allmeidaapedro
-
-Gmail: pedrooalmeida.net@gmail.com
